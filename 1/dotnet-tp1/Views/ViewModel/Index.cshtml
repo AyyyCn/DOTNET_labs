@@ -1,0 +1,10 @@
+﻿@model WebApplication1.Models.ViewModel
+
+<h1>@Model.Id</h1>
+<br />
+<h2>@Model.Movie.Name</h2>
+<br />
+@foreach(var customer in Model.Customers)
+{
+    <h2>@customer.Name</h2>
+}

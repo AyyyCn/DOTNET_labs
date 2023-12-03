@@ -1,0 +1,13 @@
+﻿@model WebApplication2.Models.Movie
+
+@if(Model==null)
+{
+    <p>movie not found</p>
+}
+@if(Model!=null)
+{
+<h1>Details for Movie number @Model.Id :</h1>
+<br />
+<p>Movie Name : @Model.Name</p>
+
+}

@@ -1,0 +1,60 @@
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Mohamed Anas Neji\desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\damdo\OneDrive\Desktop\TPDOTNET\TP-.Net\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
